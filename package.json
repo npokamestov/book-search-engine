@@ -12,12 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
+    "url": "git+https://github.com/npokamestov/book-search-engine.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo-server-express": "^2.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
